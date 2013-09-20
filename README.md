@@ -1,6 +1,6 @@
 #MongoDB Disco Adapter
 
-The MongoDB Disco Adapter is a plugin which connect MongoDB and Disco MapRedcue framework by enabling users the ability to use MongoDB as an data input and/or an output source.
+The MongoDB Disco Adapter is a plugin which connect MongoDB and Disco MapReduce framework by enabling users the ability to use MongoDB as an data input and/or an output source.
 
 ##Prerequisites
 For each machine in a disco cluster, it need following:
